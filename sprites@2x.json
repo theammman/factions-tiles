@@ -1,0 +1,58 @@
+{
+  "grass_bright": {
+    "x": 0,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "grass_mid": {
+    "x": 66,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "grass_dark": {
+    "x": 132,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "grass_teal": {
+    "x": 198,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "dirt_orange": {
+    "x": 264,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "dirt_tan": {
+    "x": 330,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "dirt_mauve": {
+    "x": 396,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "water": {
+    "x": 462,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  }
+}
