@@ -2,57 +2,57 @@
   "grass_bright": {
     "x": 0,
     "y": 0,
-    "width": 32,
-    "height": 32,
+    "width": 16,
+    "height": 16,
     "pixelRatio": 1
   },
   "grass_mid": {
-    "x": 34,
+    "x": 18,
     "y": 0,
-    "width": 32,
-    "height": 32,
+    "width": 16,
+    "height": 16,
     "pixelRatio": 1
   },
   "grass_dark": {
-    "x": 68,
+    "x": 36,
     "y": 0,
-    "width": 32,
-    "height": 32,
+    "width": 16,
+    "height": 16,
     "pixelRatio": 1
   },
   "grass_teal": {
-    "x": 102,
+    "x": 54,
     "y": 0,
-    "width": 32,
-    "height": 32,
+    "width": 16,
+    "height": 16,
     "pixelRatio": 1
   },
   "dirt_orange": {
-    "x": 136,
+    "x": 72,
     "y": 0,
-    "width": 32,
-    "height": 32,
+    "width": 16,
+    "height": 16,
     "pixelRatio": 1
   },
   "dirt_tan": {
-    "x": 170,
+    "x": 90,
     "y": 0,
-    "width": 32,
-    "height": 32,
+    "width": 16,
+    "height": 16,
     "pixelRatio": 1
   },
   "dirt_mauve": {
-    "x": 204,
+    "x": 108,
     "y": 0,
-    "width": 32,
-    "height": 32,
+    "width": 16,
+    "height": 16,
     "pixelRatio": 1
   },
   "water": {
-    "x": 238,
+    "x": 126,
     "y": 0,
-    "width": 32,
-    "height": 32,
+    "width": 16,
+    "height": 16,
     "pixelRatio": 1
   }
 }
